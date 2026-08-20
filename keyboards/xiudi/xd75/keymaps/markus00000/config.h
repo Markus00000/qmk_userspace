@@ -25,11 +25,11 @@
 #define MK_MOMENTARY_ACCEL
 #define MK_C_OFFSET_UNMOD   18
 #define MK_C_INTERVAL_UNMOD 16
-#define MK_C_OFFSET_0       1
+#define MK_C_OFFSET_0       8
 #define MK_C_INTERVAL_0     16
 #define MK_C_OFFSET_1       3
 #define MK_C_INTERVAL_1     16
-#define MK_C_OFFSET_2       8
+#define MK_C_OFFSET_2       1
 #define MK_C_INTERVAL_2     16
 #define MK_W_OFFSET_UNMOD   1
 #define MK_W_INTERVAL_UNMOD 40
