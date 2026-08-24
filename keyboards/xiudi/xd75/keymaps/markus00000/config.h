@@ -27,7 +27,7 @@
 #define MK_C_INTERVAL_UNMOD 16
 #define MK_C_OFFSET_0       10
 #define MK_C_INTERVAL_0     16
-#define MK_C_OFFSET_1       6
+#define MK_C_OFFSET_1       5
 #define MK_C_INTERVAL_1     16
 #define MK_C_OFFSET_2       2
 #define MK_C_INTERVAL_2     16
